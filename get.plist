@@ -20,10 +20,10 @@
 				<string>com.fnst.smartwork</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
-				<key>jubao</key>
+				<key>kind</key>
 				<string>software</string>
-				<key>jubao-yule</key>
-				<string>jubao-yule.ipa</string>
+				<key>title</key>
+				<string>xxx.ipa</string>
 			</dict>
 		</dict>
 	</array>
