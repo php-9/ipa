@@ -17,9 +17,9 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-    <string>somebody.app</string>
+    <string>com.justep.x5.demo</string>
                 <key>bundle-version</key>
-                <string>1.0</string>
+                <string>5.3.2</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
